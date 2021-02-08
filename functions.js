@@ -7,7 +7,7 @@ function greet(name, lastname) {
 greet('Kris', 'Zwart') 
 greet('Joe Jer', 'Tee')
 
-// Calculating a value for
+// Calculating a value for (CLEAN CODE example rather than concatenating)
 function square(number) {
     return number * number;
 }
