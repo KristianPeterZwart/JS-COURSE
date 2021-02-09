@@ -15,3 +15,4 @@ function max(a, b) {
 //    (condition) ? a : // otherwise b
 
 //    return (a > b) ? a : b // this is better code
+
