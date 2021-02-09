@@ -27,3 +27,5 @@ for (let index in colors)
 // person['name']
 // 
 // for -of
+for (let color of colors)
+console.log(color)
